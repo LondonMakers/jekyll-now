@@ -15,4 +15,4 @@ We will also have a general chat as always.
 
 Sean
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
