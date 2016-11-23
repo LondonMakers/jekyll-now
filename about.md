@@ -10,6 +10,6 @@ Some information about London Makers!
 
 A place to include any other types of information that you'd like to include about London Makers.
 
-### Contact us!
+### Contact Us!
 
 [email@domain.com](mailto:email@domain.com)
