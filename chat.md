@@ -6,6 +6,6 @@ permalink: /chat/
 
 Chat
 
-<iframe src="https://gitter.im/LondonMakers/lmh/~embed"></iframe>
+<iframe width="560" height="315" src="https://gitter.im/LondonMakers/lmh/~embed" frameborder="0" allowfullscreen></iframe>
 
 Chat it up!
