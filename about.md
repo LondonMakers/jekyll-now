@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about London Makers!
+Interested in the maker revolution? This group will explore all things maker including and not limited to 3D Printing, CNC Machining and electronics. With a focus on items of group interests, from prop making to product development. Exploring the latest software, maker technologies, and workflows with us. 
 
-### More Information
-
-Interested in the maker revolution? This group will explore all things maker including, 3D Printing, CNC Machining. With a focus on prop making and product development, we can explore the latest software, maker technologies, and workflows. 
 
 ### Contact Us!
 
