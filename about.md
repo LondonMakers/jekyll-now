@@ -12,5 +12,5 @@ This group will explore all things Maker including and not limited to 3D Printin
 
 ### Contact Us!
 
-[Contact](https://www.meetup.com/messages/?new_convo=true) in the TO field paste: Organizers of London Makers Meetup
+[Contact](mailto:londonmakerscommunity@gmail.com)
 
