@@ -5,7 +5,9 @@ title: Demo Night @ The Shop!
 
 Join us for a night of Demos @ The Shop! Sean will Demo the laser Engraver cutter and the 3d printer.
 
-Contact me if you have a skill you would like to demo.
+https://www.meetup.com/londonmakerscommunity/events/235239957/
+
+Contact us if you have a skill you would like to demo.
 
 
 
