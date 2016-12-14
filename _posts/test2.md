@@ -1,5 +1,5 @@
----\r\nlayout: post\r\ntitle: All about Mini_sumo Robots!\r\n---\r\n \r\nLocation: The shop\r\n \r\nAll About Mini-sumo Robots
+---\s\slayout: post\s\stitle: All about Mini_sumo Robots!\s\s---\s\s \s\sLocation: The shop\s\s \s\sAll About Mini-sumo Robots
 
 Were going to talk about mini-sumo robots - what they are, where you can get them, and how you can build them. Well also be demoing a couple of custom-designed and built mini-sumos as they battle.
 
-we will start with 30-45 minutes of social time then Jon will do his talk and demo.\r\n \r\nhttps://www.meetup.com/londonmakerscommunity/events/236137358/\r\n \r\nContact us if you have a skill you would like to demo.\r\n \r\n\r\n![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)\r\n
+we will start with 30-45 minutes of social time then Jon will do his talk and demo.\s\s \s\shttps://www.meetup.com/londonmakerscommunity/events/236137358/\s\s \s\sContact us if you have a skill you would like to demo.\s\s \s\s\s\s![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)\s\s
