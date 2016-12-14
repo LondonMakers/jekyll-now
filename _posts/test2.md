@@ -4,7 +4,7 @@ title: All about Mini_sumo Robots!
 ---
 
 Location: The shop
-
+Date: 1482278400000
 All About Mini-sumo Robots
 
 Were going to talk about mini-sumo robots - what they are, where you can get them, and how you can build them. Well also be demoing a couple of custom-designed and built mini-sumos as they battle.
