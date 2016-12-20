@@ -10,7 +10,7 @@ Date: {{ 1482278400000 | divided_by: 1000 | date: "%c" }}
 
 All About Mini-Sumo Robots
 
-![Mini Sumo!](/images/minisumo.jpg =720x405)
+![Mini Sumo!](/images/minisumo.jpg)
 
 Were going to talk about mini-sumo robots - What they are, where you can get them, and how you can build them. We'll also be demoing a couple of custom-designed and built mini-sumos as they battle.
 
