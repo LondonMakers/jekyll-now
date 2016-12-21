@@ -25,3 +25,22 @@ Contact us in the live chat above or social links below, if you have a skills or
 
 
 ![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
+
+
+**Meetup Post-Mortem**
+
+5,4,3,2,1,GO!
+
+![Mini Sumo!](/images/minisumoevent001.jpg)
+
+Finite State-Machines
+
+![Mini Sumo!](/images/minisumoevent002.jpg)
+
+<br />
+
+<div class="youtube" id="tqT4KNuRohw"></div>
+
+<br />
+
+<!--more-->
