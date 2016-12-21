@@ -33,9 +33,11 @@ Contact us in the live chat above or social links below, if you have a skills or
 
 ![Mini Sumo!](/images/minisumoevent001.jpg)
 
-Finite State-Machines
+Finite State-Machines.
 
 ![Mini Sumo!](/images/minisumoevent002.jpg)
+
+And the winner is Seeker II with it's heavier weight of 491g.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hf5W0pbAAUA" frameborder="0" allowfullscreen></iframe>
 
