@@ -37,6 +37,8 @@ Finite State-Machines
 
 ![Mini Sumo!](/images/minisumoevent002.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hf5W0pbAAUA" frameborder="0" allowfullscreen></iframe>
+
 <br />
 
 <div class="youtube" id="tqT4KNuRohw"></div>
