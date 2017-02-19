@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All About Mini Sumo Robots!
+title: Open House - Woodworking Discussion
 ---
 
 Location: The Shop
