@@ -5,7 +5,7 @@ title: Open House - Woodworking Discussion
 
 Location: The Shop
 
-Date: {{ 1487012400000 | divided_by: 1000 | date: "%c" }}
+Date: {{ 1487030400000 | divided_by: 1000 | date: "%c" }}
 
 
 Open House - Woodworking Discussion
