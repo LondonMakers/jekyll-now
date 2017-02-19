@@ -17,6 +17,6 @@ I will explain the construction techniques I am using for the benches and drawer
 
 Anyone else with something of a show and tell can let me know and I will carve out some time for you as well.  Hope to see some of you out.
 
-![Woodworking](/images/woodworking001.jpg)
+![Woodworking](/images/woodshop001.jpg)
 
-![Woodworking](/images/woodworking002.jpg)
+![Woodworking](/images/woodshop002.jpg)
